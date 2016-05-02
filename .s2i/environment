@@ -1,4 +1,0 @@
-# This is just a comment
-Date=$(date +%s)
-TEST=fools errand
-MY_APP_NAME=simple-ruby
